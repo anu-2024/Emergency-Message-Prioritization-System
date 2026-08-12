@@ -1,0 +1,1201 @@
+message_id,text,category,urgency,source
+MSG-1010,"Building on fire at the riverside colony, multiple people including young children inside.",Fire,Critical,synthetic
+MSG-1424,Requesting food packets for a shelter camp near the government school.,Food,Medium,synthetic
+MSG-2097,"No clean drinking water near Mysore Road, people falling sick.",Water,High,synthetic
+MSG-1101,"Mobile network down near Whitefield, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1002,"Trapped in a car due to flooding near Koramangala, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1522,"Families displaced near Marathahalli, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1068,"A dozen people including pregnant women are badly injured near Mysore Road, need medical help urgently.",Medical,High,synthetic
+MSG-1916,Water levels low at the community tank close to Yelahanka.,Water,Medium,synthetic
+MSG-1091,"Ran out of baby food near Hebbal, urgent for infants.",Food,High,synthetic
+MSG-1316,Requesting food packets for a shelter camp near Whitefield.,Food,High,synthetic
+MSG-1757,Water levels low at the community tank near Indiranagar.,Water,High,synthetic
+MSG-1700,Road completely blocked near Yelahanka due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1094,Water levels low at the community tank near Marathahalli.,Water,High,synthetic
+MSG-1774,"Sharing updates from local news about Koramangala, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1554,"Families displaced near the government school, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1746,"Building on fire at the riverside colony, multiple people including an infant inside.",Fire,Critical,synthetic
+MSG-1888,Bridge near the government school looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1132,Requesting food packets for a shelter camp near the riverside colony.,Food,Medium,synthetic
+MSG-1343,"No clean drinking water near Indiranagar, people falling sick.",Water,Medium,synthetic
+MSG-1510,"Minor waterlogging near the government school, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1777,"Homes damaged near Marathahalli, young children need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1564,"We have a pregnant woman in labor near Yelahanka, no doctor available.",Medical,Low,synthetic
+MSG-1946,"Just checking in, everyone in my family near Marathahalli is safe.",Other/Irrelevant,Medium,synthetic
+MSG-1545,"We have a pregnant woman in labor near Anekal, no doctor available.",Medical,High,synthetic
+MSG-2050,"No clean drinking water near Anekal, people falling sick.",Water,Medium,synthetic
+MSG-1872,Can someone confirm if schools near Whitefield are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1247,"Building on fire at the riverside colony, multiple people including several families inside.",Fire,Critical,synthetic
+MSG-1278,"No clean drinking water near the highway bridge area, people falling sick.",Water,High,synthetic
+MSG-1715,"Ran out of baby food near Jayanagar, urgent for infants.",Food,Critical,synthetic
+MSG-2134,"Someone collapsed near the riverside colony, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1614,"Building on fire at Anekal, multiple people including pregnant women inside.",Fire,High,synthetic
+MSG-1684,"We have a pregnant woman in labor near Indiranagar, no doctor available.",Medical,Medium,synthetic
+MSG-1588,"Camp near the riverside colony is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1237,"Mobile network down near the old bus stand area, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1143,Bridge near Jayanagar looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1245,Water levels low at the community tank close to Mysore Road.,Water,Medium,synthetic
+MSG-1900,"Water level rising fast near the highway bridge area, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-2036,"Trapped in a car due to flooding near Hebbal, water rising.",Flood/Rescue,Low,synthetic
+MSG-1988,"Families near Electronic City running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1897,"Families near Sector 12 running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1164,"Minor waterlogging close to Yelahanka, roads slow but passable.",Flood/Rescue,Low,synthetic
+MSG-1340,"Contaminated water near Koramangala, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-1543,"Someone collapsed near the old bus stand area, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1345,"Smell of smoke near the old bus stand area, not sure of source yet.",Fire,Critical,synthetic
+MSG-1231,"Small electrical fire near Yelahanka, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1199,"Just checking in, everyone in my family near the government school is safe.",Other/Irrelevant,Low,synthetic
+MSG-1421,Road completely blocked near Hebbal due to fallen trees.,Infrastructure,Medium,synthetic
+MSG-1885,Bridge near Koramangala looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1069,"Minor waterlogging near Yelahanka, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-2184,Our street is flooded and elderly people need rescue near Mysore Road.,Flood/Rescue,Critical,synthetic
+MSG-1861,"Elderly person with chest pain at Koramangala, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1385,Can someone confirm if schools near Yelahanka are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1654,"Smell of smoke close to the highway bridge area, not sure of source yet.",Fire,Critical,synthetic
+MSG-1416,"Camp near Hebbal is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1992,"Power lines down near Hebbal, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1432,Bridge near Yelahanka looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-2030,"Power lines down near Whitefield, risk of electrocution.",Infrastructure,Low,synthetic
+MSG-1718,Is the market near the riverside colony open today?,Other/Irrelevant,Low,synthetic
+MSG-1059,"We have a pregnant woman in labor close to Anekal, no doctor available.",Medical,High,synthetic
+MSG-2192,"Roof collapsed partially near the old bus stand area, need shelter for the night.",Shelter,High,synthetic
+MSG-1793,"Water supply cut off near the government school since yesterday, need water tankers.",Water,High,synthetic
+MSG-1572,Thank you to the volunteers who helped near Koramangala yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1627,"Families near Yelahanka running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1123,"Fire has broken out close to Marathahalli, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1354,Can someone confirm if schools near Electronic City are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1763,Can someone confirm if schools near Whitefield are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1950,"Smell of smoke near Whitefield, not sure of source yet.",Fire,Medium,synthetic
+MSG-2064,"Trapped in a car due to flooding near the old bus stand area, water rising.",Flood/Rescue,Low,synthetic
+MSG-1983,Water levels low at the community tank near Whitefield.,Water,Medium,synthetic
+MSG-1058,"We have a pregnant woman in labor near Anekal, no doctor available.",Medical,High,synthetic
+MSG-1648,"Minor waterlogging near Yelahanka, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-1550,"Three people including several families are badly injured near Sector 12, need medical help urgently.",Medical,Medium,synthetic
+MSG-1374,"Ran out of baby food near Koramangala, urgent for infants.",Food,Medium,synthetic
+MSG-1880,"Families displaced near Whitefield, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1789,"Flood water entering homes at the government school, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1113,"Water supply cut off near Electronic City since yesterday, need water tankers.",Water,High,synthetic
+MSG-1312,Is the market near Whitefield open today?,Other/Irrelevant,Low,synthetic
+MSG-1315,"Contaminated water near Koramangala, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1450,Can someone confirm if schools near the highway bridge area are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1720,"Building on fire at Anekal, multiple people including pregnant women inside.",Fire,Critical,synthetic
+MSG-1972,"Camp near Whitefield is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1140,"Minor waterlogging near Mysore Road, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1824,"Someone collapsed near Yelahanka, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1856,"Sharing updates from local news about the old bus stand area, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1314,Is the market near the government school open today?,Other/Irrelevant,Medium,synthetic
+MSG-1823,Water levels low at the community tank near Koramangala.,Water,Critical,synthetic
+MSG-1827,"Fire has broken out near Hebbal, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1770,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,Low,synthetic
+MSG-1989,"Camp near the government school is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1224,Bridge near Marathahalli looks structurally unsafe after the storm.,Infrastructure,Low,synthetic
+MSG-1928,No food available for young children near Koramangala for two days now.,Food,Medium,synthetic
+MSG-1035,Our street is flooded and an infant need rescue near Mysore Road.,Flood/Rescue,Medium,synthetic
+MSG-2056,No food available for young children near Mysore Road for two days now.,Food,Critical,synthetic
+MSG-1459,"Just checking in, everyone in my family near the old bus stand area is safe.",Other/Irrelevant,Low,synthetic
+MSG-1401,Our street is flooded and pregnant women need rescue near Hebbal.,Flood/Rescue,High,synthetic
+MSG-1852,Road completely blocked near the government school due to fallen trees.,Infrastructure,Medium,synthetic
+MSG-1807,"No clean drinking water close to Hebbal, people falling sick.",Water,Critical,synthetic
+MSG-1319,"Families displaced close to Jayanagar, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1712,"Building on fire at the government school, multiple people including senior citizens inside.",Fire,High,synthetic
+MSG-1077,Requesting food packets for a shelter camp close to Electronic City.,Food,Critical,synthetic
+MSG-1576,"Families displaced near Yelahanka, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1181,"Homes damaged near Yelahanka, elderly people need emergency shelter tonight.",Shelter,High,synthetic
+MSG-2142,"Families near the old bus stand area running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1142,"Minor cuts and bruises from the incident near Yelahanka, first aid would help.",Medical,Critical,synthetic
+MSG-1978,"Trapped in a car due to flooding near Indiranagar, water rising.",Flood/Rescue,High,synthetic
+MSG-1388,"Fire has broken out near the highway bridge area, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1551,"Homes damaged near the riverside colony, an infant need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1452,"Homes damaged near Electronic City, young children need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1924,"Fire has broken out near Koramangala, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1254,"Smell of smoke near Mysore Road, not sure of source yet.",Fire,High,synthetic
+MSG-1375,"Smell of smoke near Koramangala, not sure of source yet.",Fire,Low,synthetic
+MSG-2174,"Sharing updates from local news about the riverside colony, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1782,Can someone confirm if schools near the government school are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1853,"Flood water entering homes at Jayanagar, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1204,"Ran out of baby food near Hebbal, urgent for infants.",Food,High,synthetic
+MSG-1170,"Roof collapsed partially near Sector 12, need shelter for the night.",Shelter,High,synthetic
+MSG-1902,"Camp near Marathahalli is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-2072,"Flood water entering homes at Electronic City, need boats for rescue.",Flood/Rescue,Medium,synthetic
+MSG-1977,"Mobile network down near Mysore Road, people unable to call for help.",Infrastructure,High,synthetic
+MSG-2014,"A dozen people including an infant are badly injured near Mysore Road, need medical help urgently.",Medical,Low,synthetic
+MSG-1869,"Water level rising fast close to the government school, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1836,Can someone confirm if schools near the old bus stand area are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1336,"Contaminated water near Indiranagar, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1637,"Smell of smoke near Sector 12, not sure of source yet.",Fire,High,synthetic
+MSG-1258,"Small electrical fire near the government school, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1656,Requesting food packets for a shelter camp near Sector 12.,Food,Medium,synthetic
+MSG-1128,Requesting food packets for a shelter camp near Anekal.,Food,High,synthetic
+MSG-2127,"Water supply cut off near Sector 12 since yesterday, need water tankers.",Water,Low,synthetic
+MSG-2143,"Roof collapsed partially near Sector 12, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1138,"We have a pregnant woman in labor near the old bus stand area, no doctor available.",Medical,Medium,synthetic
+MSG-1360,Is the market close to Hebbal open today?,Other/Irrelevant,Medium,synthetic
+MSG-2114,"Roof collapsed partially near Marathahalli, need shelter for the night.",Shelter,High,synthetic
+MSG-1496,"Flood water entering homes at Sector 12, need boats for rescue.",Flood/Rescue,Low,synthetic
+MSG-2119,Is the market close to Sector 12 open today?,Other/Irrelevant,Low,synthetic
+MSG-1026,"Water supply cut off close to the highway bridge area since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-2185,"Minor cuts and bruises from the incident near Hebbal, first aid would help.",Medical,High,synthetic
+MSG-1024,"Elderly person with chest pain at Koramangala, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1281,"Building on fire at Whitefield, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-1966,Bridge near Hebbal looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1382,"Ran out of baby food near the highway bridge area, urgent for infants.",Food,High,synthetic
+MSG-2024,"Fire has broken out near Yelahanka, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1913,"Ran out of baby food near Jayanagar, urgent for infants.",Food,High,synthetic
+MSG-1994,Requesting food packets for a shelter camp near Indiranagar.,Food,High,synthetic
+MSG-1198,No food available for senior citizens near the highway bridge area for two days now.,Food,Low,synthetic
+MSG-2120,"Flood water entering homes at Indiranagar, need boats for rescue.",Flood/Rescue,Medium,synthetic
+MSG-1501,Our street is flooded and senior citizens need rescue near Hebbal.,Flood/Rescue,Critical,synthetic
+MSG-1747,"Water level rising fast near Anekal, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1881,"Families displaced close to Whitefield, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1282,Can someone confirm if schools near Anekal are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1103,"Trapped in a car due to flooding near Jayanagar, water rising.",Flood/Rescue,High,synthetic
+MSG-1083,"Camp near Sector 12 is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1399,"Contaminated water near Hebbal, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1487,"No clean drinking water near Hebbal, people falling sick.",Water,Critical,synthetic
+MSG-1189,"Homes damaged near Electronic City, a disabled person need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1355,"Trapped in a car due to flooding near Sector 12, water rising.",Flood/Rescue,High,synthetic
+MSG-1878,"Homes damaged near Mysore Road, young children need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1607,"Contaminated water near the riverside colony, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-2059,"Fire has broken out near Koramangala, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1599,"Smell of smoke near Mysore Road, not sure of source yet.",Fire,Critical,synthetic
+MSG-1239,Requesting food packets for a shelter camp near Jayanagar.,Food,High,synthetic
+MSG-2165,"Just checking in, everyone in my family near Jayanagar is safe.",Other/Irrelevant,Low,synthetic
+MSG-1347,"Families near the riverside colony running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1397,"Contaminated water near the government school, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-2071,"Camp near the riverside colony is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-2145,Road completely blocked near Electronic City due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1589,"Someone collapsed near Anekal, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-2027,"Roof collapsed partially close to Whitefield, need shelter for the night.",Shelter,High,synthetic
+MSG-1328,"Mobile network down near Koramangala, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1657,"Ran out of baby food near the riverside colony, urgent for infants.",Food,Medium,synthetic
+MSG-1148,"Minor waterlogging near the government school, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1257,"Sharing updates from local news about Hebbal, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1729,"Small electrical fire near the riverside colony, under control but need fire dept.",Fire,Medium,synthetic
+MSG-2110,"Water supply cut off near Sector 12 since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1509,"Someone collapsed near Jayanagar, breathing heavily, please send an ambulance.",Medical,Low,synthetic
+MSG-2087,"Minor cuts and bruises from the incident near Anekal, first aid would help.",Medical,Medium,synthetic
+MSG-2095,"Families near Jayanagar running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-2018,Requesting food packets for a shelter camp close to Anekal.,Food,High,synthetic
+MSG-1252,"No clean drinking water near Jayanagar, people falling sick.",Water,Medium,synthetic
+MSG-1425,"Families near Jayanagar running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1890,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1560,"Camp close to Electronic City is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1293,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-2075,Requesting food packets for a shelter camp near Mysore Road.,Food,Critical,synthetic
+MSG-1606,"Roof collapsed partially near Whitefield, need shelter for the night.",Shelter,High,synthetic
+MSG-1936,"Power lines down near Indiranagar, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-2008,"We have a pregnant woman in labor near Indiranagar, no doctor available.",Medical,Medium,synthetic
+MSG-1557,No food available for young children near Mysore Road for two days now.,Food,Medium,synthetic
+MSG-1454,"Fire has broken out near the old bus stand area, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1514,"We have a pregnant woman in labor near the riverside colony, no doctor available.",Medical,Critical,synthetic
+MSG-1594,"Ran out of baby food near the old bus stand area, urgent for infants.",Food,Medium,synthetic
+MSG-1300,"Building on fire at Mysore Road, multiple people including young children inside.",Fire,Medium,synthetic
+MSG-2152,"Sharing updates from local news about Whitefield, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1222,"Contaminated water near Marathahalli, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-2115,"No clean drinking water near the highway bridge area, people falling sick.",Water,High,synthetic
+MSG-2181,"Homes damaged near Koramangala, several families need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-1100,"Fire has broken out near Whitefield, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1938,Water levels low at the community tank near Mysore Road.,Water,High,synthetic
+MSG-1372,"Someone collapsed near Electronic City, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1406,Bridge near Indiranagar looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1362,"Five people including elderly people are badly injured near Yelahanka, need medical help urgently.",Medical,High,synthetic
+MSG-1622,"Minor waterlogging close to Anekal, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1759,Is the market near Mysore Road open today?,Other/Irrelevant,Low,synthetic
+MSG-1624,"Just checking in, everyone in my family near Hebbal is safe.",Other/Irrelevant,Low,synthetic
+MSG-1039,Bridge near Koramangala looks structurally unsafe after the storm.,Infrastructure,Low,synthetic
+MSG-1673,"Elderly person with chest pain at Indiranagar, needs urgent medical attention.",Medical,High,synthetic
+MSG-1620,"Camp near Anekal is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1831,"Families displaced near Koramangala, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1195,"Someone collapsed near the old bus stand area, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1118,"Water level rising fast near Mysore Road, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1711,"Families near the old bus stand area running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1130,Requesting food packets for a shelter camp near Sector 12.,Food,Low,synthetic
+MSG-1430,Our street is flooded and an infant need rescue near the riverside colony.,Flood/Rescue,High,synthetic
+MSG-1743,"Building on fire at Hebbal, multiple people including several families inside.",Fire,High,synthetic
+MSG-1034,"Minor waterlogging near Hebbal, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1289,No food available for an infant near Anekal for two days now.,Food,High,synthetic
+MSG-2103,"Camp near the riverside colony is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1922,"Families displaced near Anekal, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1285,"Fire has broken out near Indiranagar, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1122,"Fire has broken out near Marathahalli, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1828,Requesting food packets for a shelter camp near Koramangala.,Food,Critical,synthetic
+MSG-2053,Our street is flooded and several families need rescue close to the old bus stand area.,Flood/Rescue,High,synthetic
+MSG-2176,"Camp near Koramangala is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-2083,"Minor waterlogging near Whitefield, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1145,"Camp near the old bus stand area is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1080,"Mobile network down close to Anekal, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1515,"No clean drinking water near Electronic City, people falling sick.",Water,High,synthetic
+MSG-1352,"No clean drinking water near Mysore Road, people falling sick.",Water,Medium,synthetic
+MSG-1518,Bridge near Koramangala looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1357,"Camp near Electronic City is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1699,No food available for a disabled person near Hebbal for two days now.,Food,Low,synthetic
+MSG-1018,"Three people including an infant are badly injured near Anekal, need medical help urgently.",Medical,Medium,synthetic
+MSG-1999,Can someone confirm if schools near Hebbal are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1141,"Building on fire at Marathahalli, multiple people including an infant inside.",Fire,Critical,synthetic
+MSG-1709,"Flood water entering homes at Indiranagar, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1001,Our street is flooded and a disabled person need rescue near Electronic City.,Flood/Rescue,Critical,synthetic
+MSG-2052,Our street is flooded and several families need rescue near the old bus stand area.,Flood/Rescue,High,synthetic
+MSG-1264,"Smell of smoke near Koramangala, not sure of source yet.",Fire,Medium,synthetic
+MSG-1764,"Minor cuts and bruises from the incident near the riverside colony, first aid would help.",Medical,High,synthetic
+MSG-1681,Road completely blocked close to Koramangala due to fallen trees.,Infrastructure,High,synthetic
+MSG-1882,"Building on fire at Sector 12, multiple people including a disabled person inside.",Fire,Medium,synthetic
+MSG-1790,Requesting food packets for a shelter camp near Mysore Road.,Food,High,synthetic
+MSG-1228,Bridge close to Indiranagar looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1692,"Building on fire at Marathahalli, multiple people including a disabled person inside.",Fire,High,synthetic
+MSG-1558,"Families displaced near the government school, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1240,Requesting food packets for a shelter camp close to Jayanagar.,Food,High,synthetic
+MSG-1013,"Someone collapsed near Mysore Road, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1108,Road completely blocked near the government school due to fallen trees.,Infrastructure,High,synthetic
+MSG-1151,"Flood water entering homes at the highway bridge area, need boats for rescue.",Flood/Rescue,Medium,synthetic
+MSG-1201,"Sharing updates from local news about Mysore Road, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1286,"Fire has broken out near the riverside colony, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-2086,"Minor cuts and bruises from the incident near Anekal, first aid would help.",Medical,High,synthetic
+MSG-1912,"Elderly person with chest pain at Marathahalli, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1008,"Families displaced near Koramangala, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1826,Water levels low at the community tank near Sector 12.,Water,Medium,synthetic
+MSG-1713,"Elderly person with chest pain at Whitefield, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1351,No food available for elderly people near Marathahalli for two days now.,Food,High,synthetic
+MSG-1772,"Contaminated water near Jayanagar, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-1666,"Camp near Mysore Road is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1531,"Fire has broken out close to Koramangala, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1724,"No clean drinking water near the highway bridge area, people falling sick.",Water,Critical,synthetic
+MSG-1751,"Power lines down near the old bus stand area, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1748,"Power lines down near Anekal, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1993,"Families displaced near Indiranagar, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-2190,"Trapped in a car due to flooding near Yelahanka, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1062,Bridge near the highway bridge area looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1706,Requesting food packets for a shelter camp near Marathahalli.,Food,Medium,synthetic
+MSG-1816,"Building on fire at Jayanagar, multiple people including pregnant women inside.",Fire,Critical,synthetic
+MSG-1695,"Families near the old bus stand area running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-2146,No food available for pregnant women near the highway bridge area for two days now.,Food,Critical,synthetic
+MSG-1756,"Camp near Anekal is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1804,Water levels low at the community tank near the old bus stand area.,Water,Low,synthetic
+MSG-1471,"Contaminated water near Anekal, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1234,"Families displaced near Marathahalli, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1513,"Families near Koramangala running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1662,"Five people including pregnant women are badly injured near Koramangala, need medical help urgently.",Medical,High,synthetic
+MSG-2136,"Flood water entering homes at Indiranagar, need boats for rescue.",Flood/Rescue,Medium,synthetic
+MSG-1968,"Minor waterlogging near Whitefield, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-2113,Is the market close to Electronic City open today?,Other/Irrelevant,Low,synthetic
+MSG-1921,"Power lines down near Hebbal, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-2022,Our street is flooded and an infant need rescue near the highway bridge area.,Flood/Rescue,Medium,synthetic
+MSG-1532,"Mobile network down near Hebbal, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1740,"Families near Hebbal running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1074,Road completely blocked near Marathahalli due to fallen trees.,Infrastructure,Medium,synthetic
+MSG-1690,"Families close to Anekal running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1778,"Water supply cut off near the highway bridge area since yesterday, need water tankers.",Water,Low,synthetic
+MSG-2153,"Minor cuts and bruises from the incident near Koramangala, first aid would help.",Medical,Critical,synthetic
+MSG-1226,"Families displaced near the government school, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1440,"Small electrical fire near Hebbal, under control but need fire dept.",Fire,Low,synthetic
+MSG-1814,"Contaminated water near Electronic City, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1926,"Families near Marathahalli running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1203,Bridge near the government school looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1665,Is the market near Koramangala open today?,Other/Irrelevant,Low,synthetic
+MSG-1287,"Elderly person with chest pain at Marathahalli, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1494,"Flood water entering homes at the highway bridge area, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1905,Thank you to the volunteers who helped near Indiranagar yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1668,"Homes damaged near Marathahalli, young children need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-1040,Is the market near Sector 12 open today?,Other/Irrelevant,Low,synthetic
+MSG-1390,Can someone confirm if schools near Mysore Road are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1412,"Water supply cut off near Whitefield since yesterday, need water tankers.",Water,High,synthetic
+MSG-1244,Water levels low at the community tank near Mysore Road.,Water,Medium,synthetic
+MSG-1067,"Homes damaged near Anekal, a disabled person need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1307,Requesting food packets for a shelter camp near Mysore Road.,Food,Low,synthetic
+MSG-2168,Bridge near Hebbal looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1365,"Power lines down near the government school, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1737,"Smell of smoke near Whitefield, not sure of source yet.",Fire,High,synthetic
+MSG-1211,"Flood water entering homes at the old bus stand area, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1845,"Power lines down near Marathahalli, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-2130,Water levels low at the community tank near Marathahalli.,Water,Medium,synthetic
+MSG-2063,"Contaminated water near Jayanagar, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1940,Thank you to the volunteers who helped near Sector 12 yesterday.,Other/Irrelevant,Medium,synthetic
+MSG-1749,"Elderly person with chest pain at Whitefield, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1758,"Ran out of baby food near Jayanagar, urgent for infants.",Food,High,synthetic
+MSG-1299,"Small electrical fire near the highway bridge area, under control but need fire dept.",Fire,Medium,synthetic
+MSG-2102,No food available for pregnant women near the riverside colony for two days now.,Food,Medium,synthetic
+MSG-1876,"Families near the old bus stand area running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1579,"Mobile network down near Marathahalli, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1859,"Families near Jayanagar running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-2177,"Water supply cut off near Anekal since yesterday, need water tankers.",Water,High,synthetic
+MSG-1884,Water levels low at the community tank near Anekal.,Water,Medium,synthetic
+MSG-2121,"Flood water entering homes at the riverside colony, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1335,"Camp near Sector 12 is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1463,"Water level rising fast near Yelahanka, families stuck on rooftops.",Flood/Rescue,Medium,synthetic
+MSG-1154,"Mobile network down near Electronic City, people unable to call for help.",Infrastructure,Low,synthetic
+MSG-1180,"Water level rising fast near the riverside colony, families stuck on rooftops.",Flood/Rescue,Medium,synthetic
+MSG-1580,"Elderly person with chest pain at the old bus stand area, needs urgent medical attention.",Medical,High,synthetic
+MSG-1686,"Minor cuts and bruises from the incident near the old bus stand area, first aid would help.",Medical,Low,synthetic
+MSG-1840,"Building on fire at Sector 12, multiple people including pregnant women inside.",Fire,Critical,synthetic
+MSG-1344,"Roof collapsed partially near Jayanagar, need shelter for the night.",Shelter,High,synthetic
+MSG-1555,"Water supply cut off near Koramangala since yesterday, need water tankers.",Water,Low,synthetic
+MSG-2094,"Families displaced near Sector 12, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1121,"Just checking in, everyone in my family near Yelahanka is safe.",Other/Irrelevant,Low,synthetic
+MSG-1473,"Water level rising fast near Koramangala, families stuck on rooftops.",Flood/Rescue,Low,synthetic
+MSG-1528,"Ran out of baby food near the riverside colony, urgent for infants.",Food,Low,synthetic
+MSG-1003,"Elderly person with chest pain at the riverside colony, needs urgent medical attention.",Medical,High,synthetic
+MSG-1294,"Families displaced near the old bus stand area, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-1716,"Water supply cut off near the riverside colony since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1953,"Someone collapsed near Jayanagar, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1458,Requesting food packets for a shelter camp near Yelahanka.,Food,High,synthetic
+MSG-1384,"Families near Jayanagar running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1025,"Water supply cut off near the highway bridge area since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1064,Thank you to the volunteers who helped near the highway bridge area yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1182,Water levels low at the community tank near Whitefield.,Water,Medium,synthetic
+MSG-2133,"Contaminated water close to Sector 12, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1696,Bridge near the highway bridge area looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1891,"Roof collapsed partially near Electronic City, need shelter for the night.",Shelter,Low,synthetic
+MSG-1803,Our street is flooded and a disabled person need rescue near Electronic City.,Flood/Rescue,Critical,synthetic
+MSG-1031,"Families near Sector 12 running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1792,Thank you to the volunteers who helped near Indiranagar yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1468,"Minor waterlogging near Sector 12, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1669,Bridge near Electronic City looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1608,"Water supply cut off near the old bus stand area since yesterday, need water tankers.",Water,High,synthetic
+MSG-1527,"Fire has broken out near the government school, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1630,"Families near Electronic City running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1304,"Water supply cut off near Indiranagar since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1587,Our street is flooded and senior citizens need rescue near Whitefield.,Flood/Rescue,Medium,synthetic
+MSG-1641,"Trapped in a car due to flooding near Anekal, water rising.",Flood/Rescue,Low,synthetic
+MSG-1012,Road completely blocked near Jayanagar due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1719,"Water level rising fast near Marathahalli, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1326,"Power lines down near Koramangala, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1985,"Elderly person with chest pain at the government school, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1371,"Someone collapsed near Hebbal, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1160,"Flood water entering homes at Jayanagar, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1283,"We have a pregnant woman in labor near Yelahanka, no doctor available.",Medical,High,synthetic
+MSG-1784,Is the market near Marathahalli open today?,Other/Irrelevant,Low,synthetic
+MSG-1851,"Ran out of baby food near the old bus stand area, urgent for infants.",Food,Medium,synthetic
+MSG-1110,"Elderly person with chest pain at Electronic City, needs urgent medical attention.",Medical,High,synthetic
+MSG-1920,"Fire has broken out near Sector 12, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1277,Requesting food packets for a shelter camp near the old bus stand area.,Food,Critical,synthetic
+MSG-1781,Requesting food packets for a shelter camp close to Whitefield.,Food,Critical,synthetic
+MSG-1065,"Families near Electronic City running low on food supplies, need help soon.",Food,High,synthetic
+MSG-2183,"Homes damaged near Electronic City, young children need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1200,"Sharing updates from local news about Mysore Road, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1581,"Fire has broken out near Anekal, spreading fast, people trapped inside.",Fire,Low,synthetic
+MSG-1811,"Small electrical fire near the riverside colony, under control but need fire dept.",Fire,Critical,synthetic
+MSG-2000,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-2002,"No clean drinking water close to Indiranagar, people falling sick.",Water,Critical,synthetic
+MSG-2132,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,High,synthetic
+MSG-2039,"Homes damaged near the old bus stand area, senior citizens need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1208,"Minor waterlogging near the riverside colony, roads slow but passable.",Flood/Rescue,Low,synthetic
+MSG-1802,"Building on fire at Indiranagar, multiple people including an infant inside.",Fire,High,synthetic
+MSG-1800,"Families near Mysore Road running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1858,"Roof collapsed partially near the riverside colony, need shelter for the night.",Shelter,High,synthetic
+MSG-1603,Requesting food packets for a shelter camp near Yelahanka.,Food,Medium,synthetic
+MSG-1334,Road completely blocked near Koramangala due to fallen trees.,Infrastructure,High,synthetic
+MSG-1317,"No clean drinking water near Hebbal, people falling sick.",Water,High,synthetic
+MSG-1320,"Someone collapsed near the old bus stand area, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-2158,"Water supply cut off near Sector 12 since yesterday, need water tankers.",Water,Critical,synthetic
+MSG-2016,"Mobile network down near Electronic City, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1330,"Roof collapsed partially near the government school, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1229,"Contaminated water near the old bus stand area, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-2170,Can someone confirm if schools near the old bus stand area are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1886,"No clean drinking water near Koramangala, people falling sick.",Water,Critical,synthetic
+MSG-2186,"No clean drinking water near Indiranagar, people falling sick.",Water,Critical,synthetic
+MSG-1313,"Families near Koramangala running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-2141,"Homes damaged close to Jayanagar, a disabled person need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1144,Bridge close to Jayanagar looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1903,"Water supply cut off near Anekal since yesterday, need water tankers.",Water,Critical,synthetic
+MSG-1177,"Families displaced near Mysore Road, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1549,"Building on fire at the highway bridge area, multiple people including young children inside.",Fire,Medium,synthetic
+MSG-1381,"Three people including senior citizens are badly injured near the old bus stand area, need medical help urgently.",Medical,High,synthetic
+MSG-1647,Can someone confirm if schools near Whitefield are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1156,"Mobile network down near the government school, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1284,"Many people including an infant are badly injured near Hebbal, need medical help urgently.",Medical,Critical,synthetic
+MSG-2144,"Families displaced near Jayanagar, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1714,Bridge near Sector 12 looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1546,Can someone confirm if schools near Marathahalli are closed tomorrow?,Other/Irrelevant,High,synthetic
+MSG-1542,"Water level rising fast near Yelahanka, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1625,"Sharing updates from local news about Jayanagar, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-2011,"Smell of smoke near Yelahanka, not sure of source yet.",Fire,High,synthetic
+MSG-1418,Thank you to the volunteers who helped near Hebbal yesterday.,Other/Irrelevant,Medium,synthetic
+MSG-1935,"Flood water entering homes at Whitefield, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-2041,"Camp near Marathahalli is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1586,Bridge near Anekal looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1819,"Families near the riverside colony running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1937,"Minor waterlogging near Indiranagar, roads slow but passable.",Flood/Rescue,Low,synthetic
+MSG-1791,"Ran out of baby food near Mysore Road, urgent for infants.",Food,High,synthetic
+MSG-2088,"Camp near Koramangala is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1339,"Smell of smoke near Marathahalli, not sure of source yet.",Fire,High,synthetic
+MSG-2148,"Families displaced near Koramangala, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1389,"Water supply cut off near Electronic City since yesterday, need water tankers.",Water,High,synthetic
+MSG-1202,"Contaminated water near Jayanagar, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1032,"We have a pregnant woman in labor near Electronic City, no doctor available.",Medical,Critical,synthetic
+MSG-1223,"Power lines down near the government school, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-1085,Water levels low at the community tank near Yelahanka.,Water,High,synthetic
+MSG-1396,"Sharing updates from local news about Jayanagar, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-2089,"Camp close to Koramangala is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1162,"Water supply cut off near Hebbal since yesterday, need water tankers.",Water,Low,synthetic
+MSG-1932,"Power lines down near Yelahanka, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-2151,"Minor waterlogging close to the old bus stand area, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1036,"Families near Anekal running low on food supplies, need help soon.",Food,High,synthetic
+MSG-2012,"Ran out of baby food near Hebbal, urgent for infants.",Food,High,synthetic
+MSG-1775,"Power lines down near Electronic City, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-1842,"Water supply cut off near Anekal since yesterday, need water tankers.",Water,High,synthetic
+MSG-1795,"Camp near Jayanagar is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1395,"Sharing updates from local news about Jayanagar, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1967,Can someone confirm if schools near Mysore Road are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1553,Is the market near Jayanagar open today?,Other/Irrelevant,Low,synthetic
+MSG-1016,"Building on fire at Sector 12, multiple people including young children inside.",Fire,High,synthetic
+MSG-1592,"Just checking in, everyone in my family near Yelahanka is safe.",Other/Irrelevant,Low,synthetic
+MSG-2057,"Power lines down near Jayanagar, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-2042,No food available for several families near Electronic City for two days now.,Food,High,synthetic
+MSG-2107,"Water supply cut off near Yelahanka since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1739,"Ran out of baby food near Whitefield, urgent for infants.",Food,High,synthetic
+MSG-1235,"No clean drinking water near Whitefield, people falling sick.",Water,High,synthetic
+MSG-1210,"Smell of smoke near Whitefield, not sure of source yet.",Fire,Critical,synthetic
+MSG-2010,Requesting food packets for a shelter camp near Yelahanka.,Food,Medium,synthetic
+MSG-1220,Can someone confirm if schools near Koramangala are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1411,"Camp near the riverside colony is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1616,Water levels low at the community tank near Yelahanka.,Water,Medium,synthetic
+MSG-1529,"No clean drinking water near Electronic City, people falling sick.",Water,Low,synthetic
+MSG-1825,"Someone collapsed near Koramangala, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1216,"Homes damaged near Anekal, young children need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-2108,"Water supply cut off close to Yelahanka since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1455,"Water supply cut off near Anekal since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1386,"Sharing updates from local news about Sector 12, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1078,Can someone confirm if schools near Hebbal are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1685,"Ran out of baby food near the old bus stand area, urgent for infants.",Food,Medium,synthetic
+MSG-1962,"Water level rising fast near Jayanagar, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1863,"Fire has broken out near Mysore Road, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1839,"Camp near Koramangala is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1478,"Just checking in, everyone in my family near Mysore Road is safe.",Other/Irrelevant,Low,synthetic
+MSG-1387,Requesting food packets for a shelter camp near Koramangala.,Food,Medium,synthetic
+MSG-1367,Water levels low at the community tank near Jayanagar.,Water,High,synthetic
+MSG-1742,"Small electrical fire near Koramangala, under control but need fire dept.",Fire,Medium,synthetic
+MSG-1981,"Fire has broken out near Anekal, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-2122,"Water supply cut off near Jayanagar since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1984,"Power lines down near Mysore Road, risk of electrocution.",Infrastructure,Low,synthetic
+MSG-1259,"Homes damaged near Jayanagar, senior citizens need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1147,"Families near Koramangala running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1175,Requesting food packets for a shelter camp near Electronic City.,Food,Medium,synthetic
+MSG-2026,"Roof collapsed partially near Whitefield, need shelter for the night.",Shelter,High,synthetic
+MSG-1653,"Smell of smoke near the highway bridge area, not sure of source yet.",Fire,Critical,synthetic
+MSG-1582,"Fire has broken out near the riverside colony, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1126,"Ran out of baby food near Yelahanka, urgent for infants.",Food,Low,synthetic
+MSG-1004,Can someone confirm if schools near the government school are closed tomorrow?,Other/Irrelevant,High,synthetic
+MSG-1477,Our street is flooded and pregnant women need rescue near Whitefield.,Flood/Rescue,Critical,synthetic
+MSG-2195,"Fire has broken out near Jayanagar, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1556,Bridge near Mysore Road looks structurally unsafe after the storm.,Infrastructure,Low,synthetic
+MSG-1566,"Smell of smoke near Whitefield, not sure of source yet.",Fire,High,synthetic
+MSG-1547,Can someone confirm if schools close to Marathahalli are closed tomorrow?,Other/Irrelevant,High,synthetic
+MSG-1435,Our street is flooded and young children need rescue near Mysore Road.,Flood/Rescue,Critical,synthetic
+MSG-1590,Bridge near Sector 12 looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1071,"Flood water entering homes at the riverside colony, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1420,"Ran out of baby food near Yelahanka, urgent for infants.",Food,Critical,synthetic
+MSG-2172,"Minor waterlogging near Anekal, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1683,"Contaminated water near Koramangala, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-2074,"Small electrical fire near Anekal, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1705,"Two people including elderly people are badly injured near Anekal, need medical help urgently.",Medical,Medium,synthetic
+MSG-1051,"No clean drinking water near Jayanagar, people falling sick.",Water,High,synthetic
+MSG-2191,"Power lines down near Whitefield, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-1376,Road completely blocked near Hebbal due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1256,Requesting food packets for a shelter camp near Electronic City.,Food,High,synthetic
+MSG-1601,"Families near the riverside colony running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1835,"No clean drinking water close to Electronic City, people falling sick.",Water,Critical,synthetic
+MSG-2159,Is the market near Anekal open today?,Other/Irrelevant,Low,synthetic
+MSG-1957,"Minor cuts and bruises from the incident close to the government school, first aid would help.",Medical,High,synthetic
+MSG-1998,"We have a pregnant woman in labor near Koramangala, no doctor available.",Medical,High,synthetic
+MSG-2051,"No clean drinking water close to Anekal, people falling sick.",Water,Medium,synthetic
+MSG-1667,No food available for a disabled person near the government school for two days now.,Food,Medium,synthetic
+MSG-1186,"Camp near Sector 12 is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1467,"Contaminated water near Mysore Road, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1604,Water levels low at the community tank near Mysore Road.,Water,High,synthetic
+MSG-1446,"Camp near Indiranagar is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1964,"Just checking in, everyone in my family near Marathahalli is safe.",Other/Irrelevant,Low,synthetic
+MSG-1323,Water levels low at the community tank near Mysore Road.,Water,Medium,synthetic
+MSG-1847,Our street is flooded and young children need rescue near the government school.,Flood/Rescue,Critical,synthetic
+MSG-1963,"Water supply cut off near Yelahanka since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-2020,"Families displaced near Yelahanka, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-2090,"Homes damaged near the old bus stand area, pregnant women need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1911,"Elderly person with chest pain at Marathahalli, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1422,"Building on fire at Sector 12, multiple people including several families inside.",Fire,Critical,synthetic
+MSG-1105,Thank you to the volunteers who helped near Sector 12 yesterday.,Other/Irrelevant,Low,synthetic
+MSG-2125,"Homes damaged near Mysore Road, a disabled person need emergency shelter tonight.",Shelter,High,synthetic
+MSG-2173,"Building on fire at Whitefield, multiple people including several families inside.",Fire,Medium,synthetic
+MSG-1864,"Families near Yelahanka running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-2178,"Trapped in a car due to flooding near the riverside colony, water rising.",Flood/Rescue,High,synthetic
+MSG-1052,"Building on fire at Sector 12, multiple people including elderly people inside.",Fire,High,synthetic
+MSG-2079,"Ran out of baby food near Koramangala, urgent for infants.",Food,Medium,synthetic
+MSG-2029,Thank you to the volunteers who helped near Anekal yesterday.,Other/Irrelevant,Low,synthetic
+MSG-2060,Water levels low at the community tank near the old bus stand area.,Water,Medium,synthetic
+MSG-2046,"Ran out of baby food near the government school, urgent for infants.",Food,Medium,synthetic
+MSG-1733,"Mobile network down near Koramangala, people unable to call for help.",Infrastructure,Low,synthetic
+MSG-2032,"Minor cuts and bruises from the incident near the riverside colony, first aid would help.",Medical,Critical,synthetic
+MSG-1265,"Smell of smoke close to Koramangala, not sure of source yet.",Fire,Medium,synthetic
+MSG-1651,Thank you to the volunteers who helped near the old bus stand area yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1732,"Families displaced near Electronic City, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1769,"Two people including several families are badly injured near Yelahanka, need medical help urgently.",Medical,High,synthetic
+MSG-2197,Bridge near Mysore Road looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1955,"Families displaced near Jayanagar, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1908,No food available for pregnant women near the government school for two days now.,Food,Medium,synthetic
+MSG-2040,"Minor cuts and bruises from the incident near Yelahanka, first aid would help.",Medical,High,synthetic
+MSG-1810,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,High,synthetic
+MSG-1033,"Smell of smoke near Marathahalli, not sure of source yet.",Fire,Medium,synthetic
+MSG-1689,"Families near Anekal running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1179,Is the market near Mysore Road open today?,Other/Irrelevant,Low,synthetic
+MSG-1163,"Minor waterlogging near Yelahanka, roads slow but passable.",Flood/Rescue,Low,synthetic
+MSG-2131,"Small electrical fire near Hebbal, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1268,"Just checking in, everyone in my family near the highway bridge area is safe.",Other/Irrelevant,Low,synthetic
+MSG-1760,"Fire has broken out near Marathahalli, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1661,"Just checking in, everyone in my family near Mysore Road is safe.",Other/Irrelevant,Medium,synthetic
+MSG-1707,"Minor cuts and bruises from the incident near Jayanagar, first aid would help.",Medical,Critical,synthetic
+MSG-1945,"Someone collapsed near the government school, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1960,"Families near Jayanagar running low on food supplies, need help soon.",Food,High,synthetic
+MSG-2099,Can someone confirm if schools near the riverside colony are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1506,No food available for a disabled person near Hebbal for two days now.,Food,Low,synthetic
+MSG-1815,"Camp near Yelahanka is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1104,"Homes damaged near Marathahalli, senior citizens need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2188,Requesting food packets for a shelter camp near the old bus stand area.,Food,Medium,synthetic
+MSG-1161,Can someone confirm if schools near Whitefield are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1895,"Ran out of baby food near Anekal, urgent for infants.",Food,High,synthetic
+MSG-1178,"Building on fire at the highway bridge area, multiple people including several families inside.",Fire,Critical,synthetic
+MSG-1798,"Minor waterlogging near Yelahanka, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1495,"Camp near the old bus stand area is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1904,"Water supply cut off near Electronic City since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-1794,"Smell of smoke near Hebbal, not sure of source yet.",Fire,High,synthetic
+MSG-1213,"Contaminated water near Anekal, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-1574,"Minor waterlogging near the old bus stand area, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-2149,"Small electrical fire near Yelahanka, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1369,Our street is flooded and pregnant women need rescue near Indiranagar.,Flood/Rescue,Medium,synthetic
+MSG-1679,"Building on fire at the old bus stand area, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-1400,Can someone confirm if schools near Electronic City are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1301,"No clean drinking water near the riverside colony, people falling sick.",Water,Low,synthetic
+MSG-1761,"Water level rising fast near the old bus stand area, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-2084,"Minor waterlogging close to Whitefield, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-2081,"Fire has broken out near Koramangala, spreading fast, people trapped inside.",Fire,Low,synthetic
+MSG-1225,"Mobile network down near Hebbal, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1520,"Roof collapsed partially near Electronic City, need shelter for the night.",Shelter,Critical,synthetic
+MSG-1591,"Contaminated water near the government school, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1449,"Smell of smoke near Anekal, not sure of source yet.",Fire,High,synthetic
+MSG-1353,"Smell of smoke near Sector 12, not sure of source yet.",Fire,Low,synthetic
+MSG-1982,Thank you to the volunteers who helped near the highway bridge area yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1197,"Minor waterlogging near Mysore Road, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-2156,"Roof collapsed partially near Jayanagar, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1166,"Small electrical fire near Indiranagar, under control but need fire dept.",Fire,Medium,synthetic
+MSG-1779,"Families near the government school running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1631,No food available for several families near Anekal for two days now.,Food,Critical,synthetic
+MSG-2161,"Homes damaged near Jayanagar, elderly people need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2066,"Sharing updates from local news about the riverside colony, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1871,"Families displaced near the riverside colony, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1956,"Minor cuts and bruises from the incident near the government school, first aid would help.",Medical,High,synthetic
+MSG-2112,Is the market near Electronic City open today?,Other/Irrelevant,Low,synthetic
+MSG-1428,"Mobile network down near Indiranagar, people unable to call for help.",Infrastructure,High,synthetic
+MSG-2019,"Two people including pregnant women are badly injured near Whitefield, need medical help urgently.",Medical,High,synthetic
+MSG-1066,"Flood water entering homes at Jayanagar, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1567,"Flood water entering homes at the highway bridge area, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1896,"Camp near Electronic City is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1623,Is the market near the old bus stand area open today?,Other/Irrelevant,Medium,synthetic
+MSG-1020,"Many people including several families are badly injured near the old bus stand area, need medical help urgently.",Medical,Critical,synthetic
+MSG-1541,Can someone confirm if schools near Indiranagar are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1063,Requesting food packets for a shelter camp near Sector 12.,Food,Critical,synthetic
+MSG-1238,"Mobile network down close to the old bus stand area, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1596,"Someone collapsed near Electronic City, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1730,Is the market near the old bus stand area open today?,Other/Irrelevant,Low,synthetic
+MSG-1498,No food available for elderly people close to Marathahalli for two days now.,Food,Medium,synthetic
+MSG-2073,"Power lines down near Indiranagar, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1500,"Roof collapsed partially near Anekal, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1038,"Three people including young children are badly injured near Hebbal, need medical help urgently.",Medical,High,synthetic
+MSG-1722,"Sharing updates from local news about the old bus stand area, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1568,"Flood water entering homes at the highway bridge area, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1593,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1923,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1426,"Ran out of baby food near Sector 12, urgent for infants.",Food,Critical,synthetic
+MSG-1910,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,High,synthetic
+MSG-1106,"Sharing updates from local news about Sector 12, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1009,"Water level rising fast near Yelahanka, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1342,"Minor cuts and bruises from the incident near the highway bridge area, first aid would help.",Medical,High,synthetic
+MSG-1053,Requesting food packets for a shelter camp near the riverside colony.,Food,Low,synthetic
+MSG-1402,"Someone collapsed near the government school, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1584,Road completely blocked near Marathahalli due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1302,"No clean drinking water near Anekal, people falling sick.",Water,Medium,synthetic
+MSG-1207,"Families displaced near Indiranagar, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1249,"Families displaced near the government school, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1691,"Fire has broken out near Hebbal, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1809,Our street is flooded and several families need rescue near Anekal.,Flood/Rescue,Critical,synthetic
+MSG-1021,"Flood water entering homes at Marathahalli, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1959,"No clean drinking water near Yelahanka, people falling sick.",Water,Medium,synthetic
+MSG-2187,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,High,synthetic
+MSG-1456,Can someone confirm if schools near Indiranagar are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1157,"Someone collapsed near Mysore Road, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1171,"Ran out of baby food near Electronic City, urgent for infants.",Food,High,synthetic
+MSG-1658,"Many people including young children are badly injured near Jayanagar, need medical help urgently.",Medical,Medium,synthetic
+MSG-1023,"Families near Anekal running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-2137,Road completely blocked near Marathahalli due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1486,"We have a pregnant woman in labor near Indiranagar, no doctor available.",Medical,High,synthetic
+MSG-1860,"Sharing updates from local news about Sector 12, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1734,"Contaminated water near Indiranagar, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1309,"Ran out of baby food near Marathahalli, urgent for infants.",Food,High,synthetic
+MSG-1089,"Elderly person with chest pain at Koramangala, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1640,"Ran out of baby food near Koramangala, urgent for infants.",Food,Critical,synthetic
+MSG-1552,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-1873,"Power lines down near Whitefield, risk of electrocution.",Infrastructure,High,synthetic
+MSG-2160,"Building on fire at Electronic City, multiple people including pregnant women inside.",Fire,High,synthetic
+MSG-1149,"Contaminated water near Marathahalli, urgent need for clean water and purification.",Water,Low,synthetic
+MSG-1493,"Mobile network down near Jayanagar, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1215,"Ran out of baby food near Mysore Road, urgent for infants.",Food,High,synthetic
+MSG-1028,"Building on fire at Indiranagar, multiple people including senior citizens inside.",Fire,Critical,synthetic
+MSG-1193,"Families near the old bus stand area running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1941,Our street is flooded and an infant need rescue near the old bus stand area.,Flood/Rescue,Critical,synthetic
+MSG-2138,"Homes damaged near Indiranagar, young children need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2023,Our street is flooded and senior citizens need rescue near Indiranagar.,Flood/Rescue,Critical,synthetic
+MSG-1015,"Families displaced near Hebbal, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1139,Is the market near Hebbal open today?,Other/Irrelevant,Low,synthetic
+MSG-1129,"Fire has broken out near Sector 12, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1090,"Mobile network down near Sector 12, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1943,"Someone collapsed near Yelahanka, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1659,"Fire has broken out near Electronic City, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-2077,"Families displaced near Anekal, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-2123,"Trapped in a car due to flooding near Marathahalli, water rising.",Flood/Rescue,Critical,synthetic
+MSG-2116,Is the market near Sector 12 open today?,Other/Irrelevant,Low,synthetic
+MSG-1311,"Roof collapsed partially near Anekal, need shelter for the night.",Shelter,High,synthetic
+MSG-1499,"Fire has broken out near Anekal, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-2117,Water levels low at the community tank near Indiranagar.,Water,Medium,synthetic
+MSG-1415,Bridge near Mysore Road looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1817,Is the market near Hebbal open today?,Other/Irrelevant,Low,synthetic
+MSG-2198,Water levels low at the community tank near the government school.,Water,Medium,synthetic
+MSG-1176,"Fire has broken out near Koramangala, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1014,"Someone collapsed close to Mysore Road, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1918,"Smell of smoke near Marathahalli, not sure of source yet.",Fire,Critical,synthetic
+MSG-1942,"Mobile network down near Mysore Road, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1808,Can someone confirm if schools near the old bus stand area are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1019,"Minor waterlogging near Marathahalli, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1548,No food available for pregnant women near Koramangala for two days now.,Food,High,synthetic
+MSG-1741,"Families close to Hebbal running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1961,"Flood water entering homes at Yelahanka, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1266,"Families near Indiranagar running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1619,Water levels low at the community tank near the government school.,Water,Critical,synthetic
+MSG-1081,"Minor waterlogging near the old bus stand area, roads slow but passable.",Flood/Rescue,Low,synthetic
+MSG-1190,"Just checking in, everyone in my family near the riverside colony is safe.",Other/Irrelevant,Low,synthetic
+MSG-1797,"Water level rising fast near the government school, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1192,"We have a pregnant woman in labor close to the old bus stand area, no doctor available.",Medical,High,synthetic
+MSG-1735,"Homes damaged near Hebbal, a disabled person need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1272,"We have a pregnant woman in labor near Electronic City, no doctor available.",Medical,High,synthetic
+MSG-1639,Requesting food packets for a shelter camp near Yelahanka.,Food,High,synthetic
+MSG-1461,"Elderly person with chest pain at Yelahanka, needs urgent medical attention.",Medical,High,synthetic
+MSG-1466,"Just checking in, everyone in my family near the highway bridge area is safe.",Other/Irrelevant,Low,synthetic
+MSG-1602,"Five people including young children are badly injured near the riverside colony, need medical help urgently.",Medical,Critical,synthetic
+MSG-1322,"Contaminated water near Jayanagar, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1305,"Contaminated water near the old bus stand area, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1838,"Fire has broken out near Electronic City, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1875,"Smell of smoke near Marathahalli, not sure of source yet.",Fire,Critical,synthetic
+MSG-1976,"Smell of smoke near Mysore Road, not sure of source yet.",Fire,Critical,synthetic
+MSG-1403,"Trapped in a car due to flooding near Electronic City, water rising.",Flood/Rescue,Low,synthetic
+MSG-1187,"Minor waterlogging near Yelahanka, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1934,"Contaminated water near the government school, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1474,"Building on fire at the highway bridge area, multiple people including senior citizens inside.",Fire,Medium,synthetic
+MSG-1678,Requesting food packets for a shelter camp near the highway bridge area.,Food,Medium,synthetic
+MSG-1117,Is the market near the old bus stand area open today?,Other/Irrelevant,Low,synthetic
+MSG-2109,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,Low,synthetic
+MSG-1958,"Elderly person with chest pain at Marathahalli, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1887,"Homes damaged near the government school, a disabled person need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-2092,"Homes damaged near Mysore Road, pregnant women need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1261,"Ran out of baby food near Hebbal, urgent for infants.",Food,Critical,synthetic
+MSG-1364,"Trapped in a car due to flooding near the government school, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1947,"Camp near Koramangala is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1708,"Trapped in a car due to flooding near the government school, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1677,"Contaminated water near the highway bridge area, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1476,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-2199,Water levels low at the community tank close to the government school.,Water,Medium,synthetic
+MSG-1423,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,Medium,synthetic
+MSG-1436,"Ran out of baby food near Whitefield, urgent for infants.",Food,High,synthetic
+MSG-1523,"Building on fire at Indiranagar, multiple people including an infant inside.",Fire,Critical,synthetic
+MSG-1111,"Ran out of baby food near Marathahalli, urgent for infants.",Food,High,synthetic
+MSG-1736,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,High,synthetic
+MSG-1949,"Homes damaged near the government school, a disabled person need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2140,"Homes damaged near Jayanagar, a disabled person need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1565,"We have a pregnant woman in labor close to Yelahanka, no doctor available.",Medical,Low,synthetic
+MSG-1049,Our street is flooded and young children need rescue near Jayanagar.,Flood/Rescue,Critical,synthetic
+MSG-2150,"Minor waterlogging near the old bus stand area, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1303,"Building on fire at the government school, multiple people including elderly people inside.",Fire,Medium,synthetic
+MSG-1438,"Homes damaged close to the old bus stand area, elderly people need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1536,Requesting food packets for a shelter camp close to the highway bridge area.,Food,Medium,synthetic
+MSG-1990,Our street is flooded and an infant need rescue near the highway bridge area.,Flood/Rescue,High,synthetic
+MSG-1717,Can someone confirm if schools near the riverside colony are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1987,"Mobile network down near Sector 12, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1915,Water levels low at the community tank near Yelahanka.,Water,Medium,synthetic
+MSG-2021,"Families displaced close to Yelahanka, looking for temporary shelter.",Shelter,Critical,synthetic
+MSG-2196,"Ran out of baby food near Jayanagar, urgent for infants.",Food,Medium,synthetic
+MSG-1490,Our street is flooded and elderly people need rescue near Koramangala.,Flood/Rescue,Critical,synthetic
+MSG-1082,"Elderly person with chest pain at Whitefield, needs urgent medical attention.",Medical,High,synthetic
+MSG-1448,"Water level rising fast near Electronic City, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1927,"Someone collapsed near Indiranagar, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-2175,"Homes damaged near the highway bridge area, pregnant women need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1086,Requesting food packets for a shelter camp near the highway bridge area.,Food,Medium,synthetic
+MSG-1538,No food available for senior citizens near Sector 12 for two days now.,Food,High,synthetic
+MSG-2049,"Someone collapsed near Anekal, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1645,"Contaminated water near Hebbal, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1540,"Families displaced near the old bus stand area, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1508,Road completely blocked near Whitefield due to fallen trees.,Infrastructure,High,synthetic
+MSG-1159,"Fire has broken out near Yelahanka, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1703,"Families near the government school running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-1664,"Trapped in a car due to flooding near Yelahanka, water rising.",Flood/Rescue,Medium,synthetic
+MSG-2162,"No clean drinking water near Marathahalli, people falling sick.",Water,Critical,synthetic
+MSG-1693,"Building on fire at the old bus stand area, multiple people including elderly people inside.",Fire,Medium,synthetic
+MSG-1475,"Roof collapsed partially near the riverside colony, need shelter for the night.",Shelter,Low,synthetic
+MSG-1350,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,Critical,synthetic
+MSG-1526,Can someone confirm if schools near Electronic City are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1870,Bridge near Koramangala looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1857,"Families displaced near Marathahalli, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1437,"Homes damaged near the old bus stand area, elderly people need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1646,"Three people including an infant are badly injured near the riverside colony, need medical help urgently.",Medical,Critical,synthetic
+MSG-1445,"Families displaced near Yelahanka, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1191,"We have a pregnant woman in labor near the old bus stand area, no doctor available.",Medical,High,synthetic
+MSG-1629,"Camp near Mysore Road is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1378,"Elderly person with chest pain at Jayanagar, needs urgent medical attention.",Medical,High,synthetic
+MSG-1433,"Ran out of baby food near Marathahalli, urgent for infants.",Food,Medium,synthetic
+MSG-1093,"Many people including pregnant women are badly injured near Anekal, need medical help urgently.",Medical,Medium,synthetic
+MSG-1971,"Camp near the highway bridge area is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-2009,"Sharing updates from local news about the riverside colony, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1848,No food available for several families near the riverside colony for two days now.,Food,Medium,synthetic
+MSG-1275,"Just checking in, everyone in my family near Koramangala is safe.",Other/Irrelevant,Low,synthetic
+MSG-2154,Our street is flooded and young children need rescue near Indiranagar.,Flood/Rescue,Low,synthetic
+MSG-1776,"Homes damaged near Yelahanka, senior citizens need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1457,"Homes damaged near Jayanagar, pregnant women need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1502,Our street is flooded and senior citizens need rescue close to Hebbal.,Flood/Rescue,Critical,synthetic
+MSG-1205,Bridge near Mysore Road looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1525,"We have a pregnant woman in labor near Anekal, no doctor available.",Medical,Critical,synthetic
+MSG-2078,"Small electrical fire near the government school, under control but need fire dept.",Fire,High,synthetic
+MSG-1099,"Just checking in, everyone in my family near Marathahalli is safe.",Other/Irrelevant,Low,synthetic
+MSG-2091,No food available for a disabled person near Sector 12 for two days now.,Food,Low,synthetic
+MSG-1368,"Families near Anekal running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1135,Water levels low at the community tank near Sector 12.,Water,High,synthetic
+MSG-1618,"Minor waterlogging near Whitefield, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-1702,Our street is flooded and senior citizens need rescue near Jayanagar.,Flood/Rescue,High,synthetic
+MSG-1318,"Families displaced near Jayanagar, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1970,Thank you to the volunteers who helped near the government school yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1443,"Ran out of baby food near Hebbal, urgent for infants.",Food,Critical,synthetic
+MSG-2193,"Homes damaged near Yelahanka, senior citizens need emergency shelter tonight.",Shelter,High,synthetic
+MSG-2035,"Sharing updates from local news about the government school, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1124,"Just checking in, everyone in my family near the riverside colony is safe.",Other/Irrelevant,Medium,synthetic
+MSG-1820,"No clean drinking water near Electronic City, people falling sick.",Water,High,synthetic
+MSG-2082,"Minor cuts and bruises from the incident near Marathahalli, first aid would help.",Medical,Medium,synthetic
+MSG-1771,Bridge near Hebbal looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1986,"Elderly person with chest pain at the government school, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1829,"Ran out of baby food near Sector 12, urgent for infants.",Food,Low,synthetic
+MSG-1413,"Smell of smoke near Whitefield, not sure of source yet.",Fire,Critical,synthetic
+MSG-1398,"Fire has broken out near Anekal, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1167,"Ran out of baby food near Electronic City, urgent for infants.",Food,High,synthetic
+MSG-1214,Bridge near the riverside colony looks structurally unsafe after the storm.,Infrastructure,Low,synthetic
+MSG-1022,"Water supply cut off near the government school since yesterday, need water tankers.",Water,Medium,synthetic
+MSG-2062,"Fire has broken out near Sector 12, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1785,Water levels low at the community tank near the highway bridge area.,Water,High,synthetic
+MSG-1246,"Homes damaged near Jayanagar, elderly people need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-2034,Road completely blocked near Mysore Road due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1262,"Ran out of baby food near Electronic City, urgent for infants.",Food,Critical,synthetic
+MSG-1409,"Flood water entering homes at Indiranagar, need boats for rescue.",Flood/Rescue,Low,synthetic
+MSG-1095,Road completely blocked near the government school due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1944,"Homes damaged near Mysore Road, an infant need emergency shelter tonight.",Shelter,High,synthetic
+MSG-2106,Is the market near the highway bridge area open today?,Other/Irrelevant,Low,synthetic
+MSG-1561,"No clean drinking water near Koramangala, people falling sick.",Water,High,synthetic
+MSG-1073,"Building on fire at the government school, multiple people including several families inside.",Fire,Critical,synthetic
+MSG-1762,"Someone collapsed near Koramangala, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-2080,"Families near Indiranagar running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1331,Water levels low at the community tank near Yelahanka.,Water,Medium,synthetic
+MSG-2111,"Small electrical fire near Koramangala, under control but need fire dept.",Fire,Low,synthetic
+MSG-1660,"Ran out of baby food near Electronic City, urgent for infants.",Food,Critical,synthetic
+MSG-1050,"Water level rising fast near Anekal, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1217,"Homes damaged close to Anekal, young children need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1133,"Trapped in a car due to flooding near Anekal, water rising.",Flood/Rescue,Low,synthetic
+MSG-1583,"Building on fire at the highway bridge area, multiple people including an infant inside.",Fire,Medium,synthetic
+MSG-1752,"Minor waterlogging near Marathahalli, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-1750,"Minor cuts and bruises from the incident near Mysore Road, first aid would help.",Medical,Medium,synthetic
+MSG-1333,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1464,"Small electrical fire near Mysore Road, under control but need fire dept.",Fire,Medium,synthetic
+MSG-1638,"Minor waterlogging near Electronic City, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-1672,"Sharing updates from local news about Jayanagar, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1045,"Ran out of baby food close to Electronic City, urgent for infants.",Food,Medium,synthetic
+MSG-1338,"Just checking in, everyone in my family near Anekal is safe.",Other/Irrelevant,High,synthetic
+MSG-2043,No food available for several families close to Electronic City for two days now.,Food,High,synthetic
+MSG-1889,"Ran out of baby food near Koramangala, urgent for infants.",Food,Critical,synthetic
+MSG-1609,"Water supply cut off close to the old bus stand area since yesterday, need water tankers.",Water,High,synthetic
+MSG-1276,"Roof collapsed partially near the government school, need shelter for the night.",Shelter,High,synthetic
+MSG-1644,Water levels low at the community tank close to the government school.,Water,Critical,synthetic
+MSG-1465,"Mobile network down near the riverside colony, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1492,"Minor cuts and bruises from the incident near the riverside colony, first aid would help.",Medical,High,synthetic
+MSG-1676,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1725,"Elderly person with chest pain at the old bus stand area, needs urgent medical attention.",Medical,High,synthetic
+MSG-1472,"Homes damaged near the riverside colony, elderly people need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1084,Thank you to the volunteers who helped near Marathahalli yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1997,"Just checking in, everyone in my family near Jayanagar is safe.",Other/Irrelevant,Low,synthetic
+MSG-1158,"Just checking in, everyone in my family near Koramangala is safe.",Other/Irrelevant,Low,synthetic
+MSG-1979,"Minor waterlogging near Hebbal, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1109,"Roof collapsed partially near the highway bridge area, need shelter for the night.",Shelter,Medium,synthetic
+MSG-1605,Water levels low at the community tank near Koramangala.,Water,High,synthetic
+MSG-1383,"Someone collapsed near Whitefield, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1404,Is the market near the riverside colony open today?,Other/Irrelevant,Low,synthetic
+MSG-1125,"No clean drinking water near Jayanagar, people falling sick.",Water,Medium,synthetic
+MSG-1697,"Roof collapsed partially near Indiranagar, need shelter for the night.",Shelter,High,synthetic
+MSG-1698,"Many people including a disabled person are badly injured near Marathahalli, need medical help urgently.",Medical,Critical,synthetic
+MSG-1292,"Just checking in, everyone in my family near Mysore Road is safe.",Other/Irrelevant,Low,synthetic
+MSG-1027,"Just checking in, everyone in my family near Anekal is safe.",Other/Irrelevant,Medium,synthetic
+MSG-1337,"Elderly person with chest pain at Electronic City, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1097,"We have a pregnant woman in labor near Whitefield, no doctor available.",Medical,Medium,synthetic
+MSG-2004,"No clean drinking water close to Whitefield, people falling sick.",Water,Critical,synthetic
+MSG-1511,"Just checking in, everyone in my family near Yelahanka is safe.",Other/Irrelevant,Low,synthetic
+MSG-1787,"Camp near Anekal is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1253,"We have a pregnant woman in labor near Indiranagar, no doctor available.",Medical,Critical,synthetic
+MSG-1079,"Mobile network down near Anekal, people unable to call for help.",Infrastructure,Medium,synthetic
+MSG-1427,"Mobile network down near Yelahanka, people unable to call for help.",Infrastructure,Critical,synthetic
+MSG-1854,"Power lines down near the riverside colony, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1585,Road completely blocked close to Marathahalli due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1786,"Fire has broken out near Hebbal, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1539,Is the market near Mysore Road open today?,Other/Irrelevant,Low,synthetic
+MSG-1005,Road completely blocked near Electronic City due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1598,Bridge near Electronic City looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1975,Water levels low at the community tank near Hebbal.,Water,High,synthetic
+MSG-1600,"No clean drinking water near Hebbal, people falling sick.",Water,Critical,synthetic
+MSG-1680,Road completely blocked near Koramangala due to fallen trees.,Infrastructure,High,synthetic
+MSG-1577,"No clean drinking water near Sector 12, people falling sick.",Water,Medium,synthetic
+MSG-2182,"We have a pregnant woman in labor near Hebbal, no doctor available.",Medical,Critical,synthetic
+MSG-1843,"Camp near the riverside colony is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-2139,"Building on fire at Yelahanka, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-2135,Water levels low at the community tank near the highway bridge area.,Water,Medium,synthetic
+MSG-2054,"Ran out of baby food near the government school, urgent for infants.",Food,Low,synthetic
+MSG-2001,"No clean drinking water near Indiranagar, people falling sick.",Water,Critical,synthetic
+MSG-1291,Thank you to the volunteers who helped near the government school yesterday.,Other/Irrelevant,Medium,synthetic
+MSG-1209,"We have a pregnant woman in labor near Mysore Road, no doctor available.",Medical,Critical,synthetic
+MSG-1096,Road completely blocked close to the government school due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1358,"Just checking in, everyone in my family near Jayanagar is safe.",Other/Irrelevant,Low,synthetic
+MSG-1127,"No clean drinking water near Whitefield, people falling sick.",Water,Low,synthetic
+MSG-1152,"We have a pregnant woman in labor near the government school, no doctor available.",Medical,High,synthetic
+MSG-1738,"Small electrical fire near Indiranagar, under control but need fire dept.",Fire,High,synthetic
+MSG-1116,"Homes damaged near the old bus stand area, several families need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1991,"Fire has broken out near the old bus stand area, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-2045,"We have a pregnant woman in labor near the old bus stand area, no doctor available.",Medical,High,synthetic
+MSG-1497,No food available for elderly people near Marathahalli for two days now.,Food,Medium,synthetic
+MSG-1575,"No clean drinking water near Hebbal, people falling sick.",Water,Critical,synthetic
+MSG-1952,Is the market near Yelahanka open today?,Other/Irrelevant,Medium,synthetic
+MSG-1366,"Power lines down close to the government school, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1453,"Sharing updates from local news about Hebbal, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1042,"We have a pregnant woman in labor near Indiranagar, no doctor available.",Medical,High,synthetic
+MSG-2015,"Contaminated water near the old bus stand area, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1119,"Water level rising fast close to Mysore Road, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1906,"Smell of smoke near Anekal, not sure of source yet.",Fire,Critical,synthetic
+MSG-1479,"Power lines down near Electronic City, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1723,"Fire has broken out near the government school, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1168,"No clean drinking water near the riverside colony, people falling sick.",Water,High,synthetic
+MSG-1919,"Ran out of baby food near Mysore Road, urgent for infants.",Food,Medium,synthetic
+MSG-1482,Is the market near the riverside colony open today?,Other/Irrelevant,Low,synthetic
+MSG-1037,No food available for senior citizens near the government school for two days now.,Food,Low,synthetic
+MSG-1188,"Sharing updates from local news about Mysore Road, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1236,"We have a pregnant woman in labor near the riverside colony, no doctor available.",Medical,Medium,synthetic
+MSG-1056,"Families displaced near Anekal, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1153,Thank you to the volunteers who helped near Marathahalli yesterday.,Other/Irrelevant,Low,synthetic
+MSG-2003,"No clean drinking water near Whitefield, people falling sick.",Water,Critical,synthetic
+MSG-1055,"No clean drinking water close to Hebbal, people falling sick.",Water,Medium,synthetic
+MSG-1451,Is the market near Mysore Road open today?,Other/Irrelevant,Low,synthetic
+MSG-1818,"Elderly person with chest pain at Hebbal, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1652,Thank you to the volunteers who helped close to the old bus stand area yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1674,"Small electrical fire near Anekal, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1874,Road completely blocked near Jayanagar due to fallen trees.,Infrastructure,High,synthetic
+MSG-1570,Road completely blocked near Yelahanka due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1155,"Power lines down near Mysore Road, risk of electrocution.",Infrastructure,Medium,synthetic
+MSG-1783,Can someone confirm if schools close to the government school are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1504,"Building on fire at the old bus stand area, multiple people including a disabled person inside.",Fire,Critical,synthetic
+MSG-1755,"Elderly person with chest pain at Jayanagar, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-2068,"Roof collapsed partially near Yelahanka, need shelter for the night.",Shelter,High,synthetic
+MSG-2070,"Minor cuts and bruises from the incident near Whitefield, first aid would help.",Medical,Medium,synthetic
+MSG-2189,"Contaminated water near Marathahalli, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1917,"Smell of smoke near Whitefield, not sure of source yet.",Fire,High,synthetic
+MSG-2180,Can someone confirm if schools near the riverside colony are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1271,"Minor cuts and bruises from the incident near the riverside colony, first aid would help.",Medical,Critical,synthetic
+MSG-1780,Requesting food packets for a shelter camp near Whitefield.,Food,Critical,synthetic
+MSG-1850,"No clean drinking water close to Indiranagar, people falling sick.",Water,Medium,synthetic
+MSG-1628,"Water supply cut off near Koramangala since yesterday, need water tankers.",Water,High,synthetic
+MSG-1270,"Power lines down near Whitefield, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1898,"Power lines down near the highway bridge area, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-2006,"Trapped in a car due to flooding near Sector 12, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1441,"Power lines down near the riverside colony, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1370,"Someone collapsed near Whitefield, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1766,"Water supply cut off near Indiranagar since yesterday, need water tankers.",Water,High,synthetic
+MSG-2164,No food available for an infant near Mysore Road for two days now.,Food,High,synthetic
+MSG-1855,"Smell of smoke near the old bus stand area, not sure of source yet.",Fire,High,synthetic
+MSG-2061,"Families near Jayanagar running low on food supplies, need help soon.",Food,High,synthetic
+MSG-2067,"Sharing updates from local news about the riverside colony, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-2169,Water levels low at the community tank near the riverside colony.,Water,Medium,synthetic
+MSG-1046,"Minor waterlogging near Indiranagar, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1321,"Building on fire at Anekal, multiple people including a disabled person inside.",Fire,Critical,synthetic
+MSG-1120,"Building on fire at Jayanagar, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-1933,"Smell of smoke near Mysore Road, not sure of source yet.",Fire,Medium,synthetic
+MSG-1146,"Building on fire at Marathahalli, multiple people including an infant inside.",Fire,Critical,synthetic
+MSG-1444,"No clean drinking water near the old bus stand area, people falling sick.",Water,Low,synthetic
+MSG-1544,"Small electrical fire near Mysore Road, under control but need fire dept.",Fire,Medium,synthetic
+MSG-1728,"Someone collapsed near Anekal, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-1325,No food available for pregnant women near Anekal for two days now.,Food,Medium,synthetic
+MSG-1092,"Power lines down near Indiranagar, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1939,"Families displaced near Marathahalli, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1480,Our street is flooded and a disabled person need rescue near the highway bridge area.,Flood/Rescue,Critical,synthetic
+MSG-2100,"Water level rising fast near Whitefield, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1348,"Homes damaged near Whitefield, an infant need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2129,"Homes damaged near Hebbal, senior citizens need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-2157,Our street is flooded and senior citizens need rescue near Koramangala.,Flood/Rescue,High,synthetic
+MSG-1174,"Elderly person with chest pain at the government school, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-2065,Thank you to the volunteers who helped near Electronic City yesterday.,Other/Irrelevant,Medium,synthetic
+MSG-1184,Water levels low at the community tank near Koramangala.,Water,Low,synthetic
+MSG-1595,"Elderly person with chest pain at Yelahanka, needs urgent medical attention.",Medical,High,synthetic
+MSG-2047,No food available for an infant near Anekal for two days now.,Food,High,synthetic
+MSG-1573,Thank you to the volunteers who helped near Electronic City yesterday.,Other/Irrelevant,Medium,synthetic
+MSG-1914,"Someone collapsed near Hebbal, breathing heavily, please send an ambulance.",Medical,Medium,synthetic
+MSG-2085,"Power lines down near Yelahanka, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1380,"Trapped in a car due to flooding near Electronic City, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1688,Thank you to the volunteers who helped near Sector 12 yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1405,"Someone collapsed near Electronic City, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1310,Water levels low at the community tank near Electronic City.,Water,Low,synthetic
+MSG-1391,"Sharing updates from local news about the old bus stand area, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1635,"Sharing updates from local news about Yelahanka, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1517,Road completely blocked near Whitefield due to fallen trees.,Infrastructure,High,synthetic
+MSG-1260,"Building on fire at Anekal, multiple people including several families inside.",Fire,Medium,synthetic
+MSG-1006,"Minor waterlogging near the government school, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1047,Requesting food packets for a shelter camp near Hebbal.,Food,Critical,synthetic
+MSG-1830,"Trapped in a car due to flooding near Marathahalli, water rising.",Flood/Rescue,High,synthetic
+MSG-1767,"Fire has broken out near the riverside colony, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1727,"Water supply cut off near Jayanagar since yesterday, need water tankers.",Water,Critical,synthetic
+MSG-1613,Is the market near the government school open today?,Other/Irrelevant,Medium,synthetic
+MSG-2038,Water levels low at the community tank near the riverside colony.,Water,Critical,synthetic
+MSG-1687,"Many people including a disabled person are badly injured near Electronic City, need medical help urgently.",Medical,High,synthetic
+MSG-1621,"Minor waterlogging near Anekal, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1363,Road completely blocked near the government school due to fallen trees.,Infrastructure,Low,synthetic
+MSG-1931,"Elderly person with chest pain at Mysore Road, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-2104,"Someone collapsed near Mysore Road, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-2031,Our street is flooded and elderly people need rescue near Indiranagar.,Flood/Rescue,Medium,synthetic
+MSG-1954,"Small electrical fire near Sector 12, under control but need fire dept.",Fire,Medium,synthetic
+MSG-1341,No food available for pregnant women near the highway bridge area for two days now.,Food,Medium,synthetic
+MSG-1054,"No clean drinking water near Hebbal, people falling sick.",Water,Medium,synthetic
+MSG-1061,"Power lines down near Anekal, risk of electrocution.",Infrastructure,Low,synthetic
+MSG-1571,Road completely blocked close to Yelahanka due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1098,"Someone collapsed near Koramangala, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1075,"Fire has broken out near the riverside colony, spreading fast, people trapped inside.",Fire,High,synthetic
+MSG-1263,"Families displaced near Yelahanka, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1612,Requesting food packets for a shelter camp near Electronic City.,Food,Medium,synthetic
+MSG-2033,"Minor cuts and bruises from the incident close to the riverside colony, first aid would help.",Medical,Critical,synthetic
+MSG-1434,"Building on fire at Whitefield, multiple people including pregnant women inside.",Fire,Critical,synthetic
+MSG-1726,Water levels low at the community tank near Anekal.,Water,High,synthetic
+MSG-1393,Our street is flooded and pregnant women need rescue near Anekal.,Flood/Rescue,Medium,synthetic
+MSG-1731,Is the market close to the old bus stand area open today?,Other/Irrelevant,Low,synthetic
+MSG-1218,"Flood water entering homes at Hebbal, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1704,Bridge near Anekal looks structurally unsafe after the storm.,Infrastructure,Critical,synthetic
+MSG-1408,"Trapped in a car due to flooding near Koramangala, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1710,"Sharing updates from local news about the riverside colony, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1332,"Contaminated water near Sector 12, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1893,"Elderly person with chest pain at Anekal, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1137,"Roof collapsed partially near Electronic City, need shelter for the night.",Shelter,Low,synthetic
+MSG-1481,"Small electrical fire near Indiranagar, under control but need fire dept.",Fire,Critical,synthetic
+MSG-1011,"Trapped in a car due to flooding near Jayanagar, water rising.",Flood/Rescue,Medium,synthetic
+MSG-1088,"Camp near Electronic City is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1470,"Power lines down near Electronic City, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1663,"Five people including pregnant women are badly injured close to Koramangala, need medical help urgently.",Medical,High,synthetic
+MSG-1701,"Camp near Yelahanka is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1597,"Just checking in, everyone in my family near Electronic City is safe.",Other/Irrelevant,Medium,synthetic
+MSG-1379,"Water supply cut off near Whitefield since yesterday, need water tankers.",Water,Low,synthetic
+MSG-1255,Can someone confirm if schools near Sector 12 are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-2028,Road completely blocked near the government school due to fallen trees.,Infrastructure,High,synthetic
+MSG-1462,"Contaminated water near the government school, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1633,"Minor cuts and bruises from the incident close to the old bus stand area, first aid would help.",Medical,High,synthetic
+MSG-1242,"Flood water entering homes at Jayanagar, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1269,"Families near Koramangala running low on food supplies, need help soon.",Food,Medium,synthetic
+MSG-1298,"Sharing updates from local news about Mysore Road, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1030,"Just checking in, everyone in my family near Whitefield is safe.",Other/Irrelevant,Low,synthetic
+MSG-1150,"Smell of smoke near Jayanagar, not sure of source yet.",Fire,High,synthetic
+MSG-1812,"Sharing updates from local news about Jayanagar, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1419,"Flood water entering homes at Sector 12, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-2105,"Camp near Sector 12 is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1429,Bridge near the highway bridge area looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1194,"We have a pregnant woman in labor near Jayanagar, no doctor available.",Medical,Critical,synthetic
+MSG-1694,Water levels low at the community tank near Mysore Road.,Water,Critical,synthetic
+MSG-2167,"Fire has broken out near Mysore Road, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1290,"Flood water entering homes at Marathahalli, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1844,"Elderly person with chest pain at Indiranagar, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1221,"Three people including a disabled person are badly injured near Electronic City, need medical help urgently.",Medical,Medium,synthetic
+MSG-1615,"Building on fire at Electronic City, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-1212,"Elderly person with chest pain at Sector 12, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1877,Our street is flooded and pregnant women need rescue near Hebbal.,Flood/Rescue,High,synthetic
+MSG-1442,"Power lines down close to the riverside colony, risk of electrocution.",Infrastructure,High,synthetic
+MSG-1134,Our street is flooded and senior citizens need rescue near Yelahanka.,Flood/Rescue,High,synthetic
+MSG-1392,Thank you to the volunteers who helped near Koramangala yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1507,"Elderly person with chest pain at the riverside colony, needs urgent medical attention.",Medical,High,synthetic
+MSG-1765,"Someone collapsed near Marathahalli, breathing heavily, please send an ambulance.",Medical,Critical,synthetic
+MSG-1295,"We have a pregnant woman in labor near Mysore Road, no doctor available.",Medical,High,synthetic
+MSG-1273,"Families displaced near Jayanagar, looking for temporary shelter.",Shelter,High,synthetic
+MSG-1801,"Just checking in, everyone in my family near Yelahanka is safe.",Other/Irrelevant,Low,synthetic
+MSG-2098,"Minor waterlogging near the riverside colony, roads slow but passable.",Flood/Rescue,Medium,synthetic
+MSG-1883,"Just checking in, everyone in my family near Sector 12 is safe.",Other/Irrelevant,Low,synthetic
+MSG-1969,"Just checking in, everyone in my family near the riverside colony is safe.",Other/Irrelevant,Low,synthetic
+MSG-1196,"Someone collapsed near Anekal, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1417,"Families near Anekal running low on food supplies, need help soon.",Food,Critical,synthetic
+MSG-2048,No food available for an infant close to Anekal for two days now.,Food,High,synthetic
+MSG-1243,"Sharing updates from local news about Indiranagar, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-2013,Bridge near Marathahalli looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1930,"Elderly person with chest pain at Mysore Road, needs urgent medical attention.",Medical,Medium,synthetic
+MSG-1892,"No clean drinking water near the highway bridge area, people falling sick.",Water,High,synthetic
+MSG-1029,Requesting food packets for a shelter camp near the riverside colony.,Food,High,synthetic
+MSG-1241,"Flood water entering homes at Jayanagar, need boats for rescue.",Flood/Rescue,High,synthetic
+MSG-1349,"Families displaced near Hebbal, looking for temporary shelter.",Shelter,High,synthetic
+MSG-2124,"We have a pregnant woman in labor near Sector 12, no doctor available.",Medical,Medium,synthetic
+MSG-2044,Water levels low at the community tank near the old bus stand area.,Water,High,synthetic
+MSG-1306,"Just checking in, everyone in my family near Anekal is safe.",Other/Irrelevant,Low,synthetic
+MSG-1533,"Families near Marathahalli running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1879,Can someone confirm if schools near Koramangala are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1822,"Water level rising fast near Whitefield, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1102,No food available for senior citizens near Yelahanka for two days now.,Food,Low,synthetic
+MSG-1346,Is the market near Koramangala open today?,Other/Irrelevant,Low,synthetic
+MSG-1537,Water levels low at the community tank near Electronic City.,Water,Medium,synthetic
+MSG-2055,"Homes damaged near Jayanagar, several families need emergency shelter tonight.",Shelter,Critical,synthetic
+MSG-1948,"Homes damaged near the riverside colony, several families need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1183,"Families displaced near the riverside colony, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1469,"Minor waterlogging close to Sector 12, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1048,Is the market near Marathahalli open today?,Other/Irrelevant,Low,synthetic
+MSG-1043,"Fire has broken out near the government school, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1460,"Power lines down near the old bus stand area, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1773,Water levels low at the community tank near Marathahalli.,Water,Medium,synthetic
+MSG-1806,"No clean drinking water near Hebbal, people falling sick.",Water,Critical,synthetic
+MSG-1373,"Roof collapsed partially near the highway bridge area, need shelter for the night.",Shelter,Critical,synthetic
+MSG-1753,"Flood water entering homes at Hebbal, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1849,"No clean drinking water near Indiranagar, people falling sick.",Water,Medium,synthetic
+MSG-1173,"Contaminated water close to the riverside colony, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1407,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1578,"Camp near Jayanagar is over capacity, need additional shelter space.",Shelter,Critical,synthetic
+MSG-1671,Bridge near the riverside colony looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1356,Our street is flooded and several families need rescue near Electronic City.,Flood/Rescue,High,synthetic
+MSG-1534,"Families close to Marathahalli running low on food supplies, need help soon.",Food,Low,synthetic
+MSG-1274,"Sharing updates from local news about the old bus stand area, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1980,Road completely blocked near the riverside colony due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1925,"Sharing updates from local news about the old bus stand area, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1655,"Contaminated water near the government school, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1841,Thank you to the volunteers who helped near Jayanagar yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1267,"Water supply cut off near Koramangala since yesterday, need water tankers.",Water,High,synthetic
+MSG-2058,"Someone collapsed near the government school, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1512,"Ran out of baby food near Marathahalli, urgent for infants.",Food,Low,synthetic
+MSG-1324,"No clean drinking water near Yelahanka, people falling sick.",Water,Low,synthetic
+MSG-1227,Bridge near Indiranagar looks structurally unsafe after the storm.,Infrastructure,High,synthetic
+MSG-1169,"No clean drinking water close to the riverside colony, people falling sick.",Water,High,synthetic
+MSG-2171,"Sharing updates from local news about Anekal, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1626,"We have a pregnant woman in labor near Koramangala, no doctor available.",Medical,High,synthetic
+MSG-1410,"Homes damaged near the old bus stand area, a disabled person need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1821,"Contaminated water near Jayanagar, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1007,"Minor cuts and bruises from the incident near the highway bridge area, first aid would help.",Medical,Critical,synthetic
+MSG-1279,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,High,synthetic
+MSG-1909,Thank you to the volunteers who helped near the old bus stand area yesterday.,Other/Irrelevant,High,synthetic
+MSG-1377,Thank you to the volunteers who helped near the government school yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1107,No food available for pregnant women near Electronic City for two days now.,Food,Medium,synthetic
+MSG-2194,"Families displaced near Yelahanka, looking for temporary shelter.",Shelter,Medium,synthetic
+MSG-1929,No food available for young children close to Koramangala for two days now.,Food,Medium,synthetic
+MSG-1670,"Power lines down near the old bus stand area, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1862,"Homes damaged near Yelahanka, senior citizens need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1721,"Ran out of baby food near Mysore Road, urgent for infants.",Food,Critical,synthetic
+MSG-1136,Water levels low at the community tank near Indiranagar.,Water,Critical,synthetic
+MSG-2037,"Just checking in, everyone in my family near the highway bridge area is safe.",Other/Irrelevant,Low,synthetic
+MSG-1535,Requesting food packets for a shelter camp near the highway bridge area.,Food,Medium,synthetic
+MSG-2101,Our street is flooded and a disabled person need rescue near Whitefield.,Flood/Rescue,High,synthetic
+MSG-1206,"Smell of smoke near the government school, not sure of source yet.",Fire,Critical,synthetic
+MSG-1866,"Trapped in a car due to flooding near Koramangala, water rising.",Flood/Rescue,Medium,synthetic
+MSG-1682,"Fire has broken out near Electronic City, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1846,"Contaminated water near Mysore Road, urgent need for clean water and purification.",Water,Critical,synthetic
+MSG-1965,"Just checking in, everyone in my family close to Marathahalli is safe.",Other/Irrelevant,Low,synthetic
+MSG-2007,"Building on fire at Marathahalli, multiple people including young children inside.",Fire,Critical,synthetic
+MSG-1165,"We have a pregnant woman in labor near Hebbal, no doctor available.",Medical,Critical,synthetic
+MSG-1562,"Smell of smoke near Mysore Road, not sure of source yet.",Fire,High,synthetic
+MSG-1070,Requesting food packets for a shelter camp near the riverside colony.,Food,Low,synthetic
+MSG-1833,No food available for an infant near Hebbal for two days now.,Food,High,synthetic
+MSG-1650,"Someone collapsed near the highway bridge area, breathing heavily, please send an ambulance.",Medical,High,synthetic
+MSG-1899,"Power lines down close to the highway bridge area, risk of electrocution.",Infrastructure,Critical,synthetic
+MSG-1329,"Camp near Mysore Road is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1431,"Elderly person with chest pain at the riverside colony, needs urgent medical attention.",Medical,Critical,synthetic
+MSG-1610,Road completely blocked near Sector 12 due to fallen trees.,Infrastructure,Critical,synthetic
+MSG-1483,Thank you to the volunteers who helped near Anekal yesterday.,Other/Irrelevant,Low,synthetic
+MSG-2155,"Homes damaged near the government school, young children need emergency shelter tonight.",Shelter,Medium,synthetic
+MSG-1617,"Minor waterlogging near the riverside colony, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1524,"Families displaced near Electronic City, looking for temporary shelter.",Shelter,Low,synthetic
+MSG-1805,"Sharing updates from local news about the government school, nothing urgent.",Other/Irrelevant,High,synthetic
+MSG-1017,"Mobile network down near Anekal, people unable to call for help.",Infrastructure,High,synthetic
+MSG-1796,"Camp close to Jayanagar is over capacity, need additional shelter space.",Shelter,Low,synthetic
+MSG-1907,Bridge near Electronic City looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1485,"Water level rising fast near Indiranagar, families stuck on rooftops.",Flood/Rescue,Medium,synthetic
+MSG-2096,"Families near the highway bridge area running low on food supplies, need help soon.",Food,High,synthetic
+MSG-1250,"Minor waterlogging near Koramangala, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-2126,"Water level rising fast near Sector 12, families stuck on rooftops.",Flood/Rescue,Low,synthetic
+MSG-1634,"Many people including senior citizens are badly injured near Koramangala, need medical help urgently.",Medical,Critical,synthetic
+MSG-1788,Is the market near Koramangala open today?,Other/Irrelevant,Low,synthetic
+MSG-1519,Requesting food packets for a shelter camp near Mysore Road.,Food,Low,synthetic
+MSG-1491,Our street is flooded and elderly people need rescue close to Koramangala.,Flood/Rescue,Critical,synthetic
+MSG-1112,"Ran out of baby food close to Marathahalli, urgent for infants.",Food,High,synthetic
+MSG-1072,"Water supply cut off near the riverside colony since yesterday, need water tankers.",Water,Low,synthetic
+MSG-1044,"Ran out of baby food near Electronic City, urgent for infants.",Food,Medium,synthetic
+MSG-1632,"Minor cuts and bruises from the incident near the old bus stand area, first aid would help.",Medical,High,synthetic
+MSG-1754,"Flood water entering homes at Hebbal, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1974,"Minor waterlogging near Whitefield, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1744,"We have a pregnant woman in labor near Marathahalli, no doctor available.",Medical,High,synthetic
+MSG-1297,"Mobile network down near Anekal, people unable to call for help.",Infrastructure,Low,synthetic
+MSG-2179,"Sharing updates from local news about Anekal, nothing urgent.",Other/Irrelevant,Low,synthetic
+MSG-1505,"Water level rising fast near Koramangala, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1973,Thank you to the volunteers who helped near Mysore Road yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1868,"Water level rising fast near the government school, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-2118,Is the market near Sector 12 open today?,Other/Irrelevant,Low,synthetic
+MSG-1649,"Sharing updates from local news about Anekal, nothing urgent.",Other/Irrelevant,Medium,synthetic
+MSG-1232,"Water level rising fast near Marathahalli, families stuck on rooftops.",Flood/Rescue,Medium,synthetic
+MSG-1768,Water levels low at the community tank near Hebbal.,Water,High,synthetic
+MSG-2093,"Homes damaged close to Mysore Road, pregnant women need emergency shelter tonight.",Shelter,High,synthetic
+MSG-2005,"Contaminated water near Yelahanka, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1115,"Camp near Yelahanka is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1521,"Water level rising fast near Marathahalli, families stuck on rooftops.",Flood/Rescue,High,synthetic
+MSG-1837,"Trapped in a car due to flooding near the riverside colony, water rising.",Flood/Rescue,Critical,synthetic
+MSG-1901,"Water level rising fast close to the highway bridge area, families stuck on rooftops.",Flood/Rescue,Critical,synthetic
+MSG-1563,Can someone confirm if schools near the riverside colony are closed tomorrow?,Other/Irrelevant,Medium,synthetic
+MSG-1439,"Homes damaged near Anekal, senior citizens need emergency shelter tonight.",Shelter,Low,synthetic
+MSG-1359,Is the market near Hebbal open today?,Other/Irrelevant,Medium,synthetic
+MSG-1219,"Water supply cut off near Mysore Road since yesterday, need water tankers.",Water,High,synthetic
+MSG-1296,"Fire has broken out near Hebbal, spreading fast, people trapped inside.",Fire,Low,synthetic
+MSG-1447,Can someone confirm if schools near the riverside colony are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1867,Our street is flooded and a disabled person need rescue near the highway bridge area.,Flood/Rescue,Medium,synthetic
+MSG-2163,Water levels low at the community tank near Hebbal.,Water,High,synthetic
+MSG-1799,"Contaminated water near Whitefield, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1675,"Camp near the highway bridge area is over capacity, need additional shelter space.",Shelter,Medium,synthetic
+MSG-1642,Our street is flooded and an infant need rescue near Electronic City.,Flood/Rescue,High,synthetic
+MSG-1251,Requesting food packets for a shelter camp near Electronic City.,Food,Low,synthetic
+MSG-1488,"Trapped in a car due to flooding near the highway bridge area, water rising.",Flood/Rescue,Critical,synthetic
+MSG-2166,"Smell of smoke near Indiranagar, not sure of source yet.",Fire,Low,synthetic
+MSG-2017,Requesting food packets for a shelter camp near Anekal.,Food,High,synthetic
+MSG-1516,"Building on fire at the highway bridge area, multiple people including elderly people inside.",Fire,Critical,synthetic
+MSG-2076,"We have a pregnant woman in labor near the government school, no doctor available.",Medical,High,synthetic
+MSG-2069,"Just checking in, everyone in my family near Koramangala is safe.",Other/Irrelevant,Low,synthetic
+MSG-1248,"Power lines down near Whitefield, risk of electrocution.",Infrastructure,High,synthetic
+MSG-2025,"Minor waterlogging near Hebbal, roads slow but passable.",Flood/Rescue,High,synthetic
+MSG-1230,"Trapped in a car due to flooding near the highway bridge area, water rising.",Flood/Rescue,Medium,synthetic
+MSG-2200,"Ran out of baby food near Yelahanka, urgent for infants.",Food,Medium,synthetic
+MSG-1288,"Trapped in a car due to flooding near Mysore Road, water rising.",Flood/Rescue,High,synthetic
+MSG-1813,"Smell of smoke near the riverside colony, not sure of source yet.",Fire,Medium,synthetic
+MSG-1185,"Just checking in, everyone in my family near the highway bridge area is safe.",Other/Irrelevant,Low,synthetic
+MSG-1745,Thank you to the volunteers who helped near Hebbal yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1834,"No clean drinking water near Electronic City, people falling sick.",Water,Critical,synthetic
+MSG-1131,Requesting food packets for a shelter camp close to Sector 12.,Food,Low,synthetic
+MSG-1611,"Contaminated water near Hebbal, urgent need for clean water and purification.",Water,Medium,synthetic
+MSG-1643,Water levels low at the community tank near the government school.,Water,Critical,synthetic
+MSG-1172,"Contaminated water near the riverside colony, urgent need for clean water and purification.",Water,High,synthetic
+MSG-1114,Can someone confirm if schools near Hebbal are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1041,Thank you to the volunteers who helped near Electronic City yesterday.,Other/Irrelevant,Low,synthetic
+MSG-1996,Water levels low at the community tank near Jayanagar.,Water,Low,synthetic
+MSG-1087,"Ran out of baby food near Sector 12, urgent for infants.",Food,High,synthetic
+MSG-1361,No food available for pregnant women near Mysore Road for two days now.,Food,Medium,synthetic
+MSG-2128,"Water level rising fast near Marathahalli, families stuck on rooftops.",Flood/Rescue,Low,synthetic
+MSG-1569,"Smell of smoke near Whitefield, not sure of source yet.",Fire,Critical,synthetic
+MSG-1530,"Fire has broken out near Koramangala, spreading fast, people trapped inside.",Fire,Medium,synthetic
+MSG-1060,"Homes damaged near the riverside colony, young children need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1280,"No clean drinking water near Whitefield, people falling sick.",Water,High,synthetic
+MSG-1559,"Camp near Electronic City is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1327,No food available for a disabled person near Hebbal for two days now.,Food,High,synthetic
+MSG-1414,Is the market near Anekal open today?,Other/Irrelevant,Medium,synthetic
+MSG-1076,Requesting food packets for a shelter camp near Electronic City.,Food,Critical,synthetic
+MSG-1865,No food available for a disabled person near the old bus stand area for two days now.,Food,High,synthetic
+MSG-1894,"Fire has broken out near Jayanagar, spreading fast, people trapped inside.",Fire,Low,synthetic
+MSG-2147,"Minor cuts and bruises from the incident near Sector 12, first aid would help.",Medical,Critical,synthetic
+MSG-1995,Is the market near Marathahalli open today?,Other/Irrelevant,Low,synthetic
+MSG-1951,"Homes damaged near Whitefield, pregnant women need emergency shelter tonight.",Shelter,High,synthetic
+MSG-1636,"We have a pregnant woman in labor near Whitefield, no doctor available.",Medical,High,synthetic
+MSG-1503,"Minor waterlogging near Mysore Road, roads slow but passable.",Flood/Rescue,Critical,synthetic
+MSG-1057,Bridge near the highway bridge area looks structurally unsafe after the storm.,Infrastructure,Medium,synthetic
+MSG-1394,"Fire has broken out near Marathahalli, spreading fast, people trapped inside.",Fire,Critical,synthetic
+MSG-1308,"Camp near Mysore Road is over capacity, need additional shelter space.",Shelter,High,synthetic
+MSG-1233,Can someone confirm if schools near Indiranagar are closed tomorrow?,Other/Irrelevant,Low,synthetic
+MSG-1489,Road completely blocked near Anekal due to fallen trees.,Infrastructure,Medium,synthetic
+MSG-1832,"Flood water entering homes at Yelahanka, need boats for rescue.",Flood/Rescue,Critical,synthetic
+MSG-1484,Road completely blocked near the old bus stand area due to fallen trees.,Infrastructure,Critical,synthetic

@@ -1,0 +1,16 @@
+{
+  "random": {
+    "n_episodes": 30,
+    "mean_reward": 60.745639758820595,
+    "std_reward": 7.4066196926089365,
+    "mean_messages_served": 61.4,
+    "mean_avg_served_urgency": 0.5391175149011378
+  },
+  "rule_based": {
+    "n_episodes": 30,
+    "mean_reward": 116.81245074368947,
+    "std_reward": 10.8693479395706,
+    "mean_messages_served": 64.1,
+    "mean_avg_served_urgency": 0.5401965733206692
+  }
+}

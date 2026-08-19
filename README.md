@@ -1,8 +1,10 @@
-# 🛰️ Emergency Message Prioritization System
+# Emergency Message Prioritization System
 
 **NLP + Reinforcement Learning Based Emergency Message Prioritization System**
 *An MCA Academic Project — human-in-the-loop decision support only. This
 system never autonomously dispatches emergency services.*
+
+**Live Deployed App:** [https://emergency-message-prioritization-system-s3syexzkrunhwwibtrbyeg.streamlit.app/](https://emergency-message-prioritization-system-s3syexzkrunhwwibtrbyeg.streamlit.app/)
 
 ---
 
@@ -70,13 +72,18 @@ in a couple of seconds on first use, and the RL agent trains a smaller
 policy in the browser on first visit to **RL Training Lab** (with a live
 learning-curve chart) — both are cached afterwards.
 
-## Deploying on GitHub + Streamlit Community Cloud
+## Deployed on Streamlit Community Cloud
+
+The app is live at: **[https://emergency-message-prioritization-system-s3syexzkrunhwwibtrbyeg.streamlit.app/](https://emergency-message-prioritization-system-s3syexzkrunhwwibtrbyeg.streamlit.app/)**
+
+### Deploy your own (GitHub + Streamlit Community Cloud)
 
 1. `git init && git add -A && git commit -m "Emergency message prioritization system"`
 2. Push to a new GitHub repository.
 3. On [share.streamlit.io](https://share.streamlit.io), create a new app
-   pointing at your repo, branch, and `app.py`.
-4. Deploy.
+   pointing at your repo, branch (`master`), and `app.py`.
+4. Set Python version to **3.12** in Streamlit Cloud app settings.
+5. Deploy.
 
 **Recommended:** run `python train_all.py` locally first and commit the
 resulting `models/` and `data/` folders (they are *not* gitignored on
@@ -86,11 +93,11 @@ this, the app trains lazily and caches the result — it will still work,
 just slower on the very first interaction with each page.
 
 > **Resource note:** `stable-baselines3` + `torch` + `spacy` add real
-> install weight. `requirements.txt` pins CPU-only PyTorch wheels
-> (`--extra-index-url https://download.pytorch.org/whl/cpu`) to keep this
-> as light as reasonably possible. If your deployment target has tight
-> memory limits, the app degrades gracefully — NLP features keep working
-> from cached `scikit-learn` models even if the RL page is slow to (re)train.
+> install weight. The build takes 5-10 minutes on Streamlit Community Cloud.
+> If your deployment target has tight memory limits, the app degrades
+> gracefully — NLP features keep working from cached `scikit-learn` models
+> even if the RL page is slow to (re)train. A `.python-version` file pins
+> Python to 3.12 for package compatibility.
 
 ## The NLP notebook (`nlp_training.ipynb`)
 
